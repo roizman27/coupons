@@ -4,8 +4,11 @@ Java project for John Bryce course
 projet needs a sql server to work
 
 the connections uses (setup and connectionPool):
+
 	String dbUrl = "jdbc:mysql://localhost:3306/coupondb";
+	
 		String user = "root";
+		
 		String pass = "1234M";
 
 table creation should be used before running the testALL function
