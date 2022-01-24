@@ -7,9 +7,9 @@ the connections uses (setup and connectionPool):
 
 	String dbUrl = "jdbc:mysql://localhost:3306/coupondb";
 	
-		String user = "root";
+	String user = "root";
 		
-		String pass = "1234M";
+	String pass = "1234M";
 
 table creation should be used before running the testALL function
 
